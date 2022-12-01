@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717745851557",
+    "project_id": "emmortal-events",
+    "storage_bucket": "emmortal-events.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717745851557:android:80551b5fb81157ded1d14c",
+        "android_client_info": {
+          "package_name": "com.example.emmortalevents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717745851557-ikonv3elui5h3f9vlndeukhip0gobqvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiEblc4ILrRoP-qQTp8JwXvPpXBf-mB20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717745851557-ikonv3elui5h3f9vlndeukhip0gobqvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
